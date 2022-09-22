@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="AC_str">AC</string>
+    <string name="negative_str">+/-</string>
+    <string name="division_str">÷</string>
+    <string name="_7_str">7</string>
+    <string name="_8_str">8</string>
+    <string name="_9_str">9</string>
+    <string name="x_str">x</string>
+    <string name="_4_str">4</string>
+    <string name="_5_str">5</string>
+    <string name="_6_str">6</string>
+    <string name="minus_str">-</string>
+    <string name="_1_str">1</string>
+    <string name="_2_str">2</string>
+    <string name="_3_str">3</string>
+    <string name="plus_str">+</string>
+    <string name="_0_str">0</string>
+    <string name="dot_str">.</string>
+    <string name="equal_str">=</string>
+</resources>
